@@ -40,6 +40,9 @@
 #include <map>
 #include <utility>
 #include <vector>
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <unistd.h>
 
 #include "hwc_display.h"
 #include "hwc_debugger.h"
